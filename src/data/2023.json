@@ -1,0 +1,3170 @@
+[
+ {
+  "Year": 2023,
+  "Month": "January",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 61727.546,
+  "Value $": 20859.15
+ },
+ {
+  "Year": 2023,
+  "Month": "January",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 61727.546,
+  "Value $": 20859.15
+ },
+ {
+  "Year": 2023,
+  "Month": "January",
+  "Country": "Belgium",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 1860.48,
+  "Value $": 10799.573
+ },
+ {
+  "Year": 2023,
+  "Month": "January",
+  "Country": "Kenya",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 594,
+  "Value $": 790.335
+ },
+ {
+  "Year": 2023,
+  "Month": "January",
+  "Country": "India",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 3240000,
+  "Value $": 1681144.86
+ },
+ {
+  "Year": 2023,
+  "Month": "January",
+  "Country": "South Africa",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 47328.166,
+  "Value $": 28431.255
+ },
+ {
+  "Year": 2023,
+  "Month": "January",
+  "Country": "South Africa",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 47328.166,
+  "Value $": 28431.255
+ },
+ {
+  "Year": 2023,
+  "Month": "January",
+  "Country": "Egypt",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 909624.502,
+  "Value $": 689558.4
+ },
+ {
+  "Year": 2023,
+  "Month": "January",
+  "Country": "Zambia",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 1472500,
+  "Value $": 888511.142
+ },
+ {
+  "Year": 2023,
+  "Month": "January",
+  "Country": "Zambia",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 1472500,
+  "Value $": 888511.142
+ },
+ {
+  "Year": 2023,
+  "Month": "January",
+  "Country": "Kenya",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 5259000,
+  "Value $": 456942.305
+ },
+ {
+  "Year": 2023,
+  "Month": "January",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 32865000,
+  "Value $": 646770.95
+ },
+ {
+  "Year": 2023,
+  "Month": "January",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 32865000,
+  "Value $": 646770.95
+ },
+ {
+  "Year": 2023,
+  "Month": "January",
+  "Country": "Kenya",
+  "cmdCode": 1515,
+  "cmdDesc": "Fixed vegetable or microbial fats and oils n.e.c. in chapter 15 (including jojoba oil) and their fractions, whether or not refined, but not chemically modified",
+  "qty": 1914.3,
+  "Value $": 6868.566
+ },
+ {
+  "Year": 2023,
+  "Month": "January",
+  "Country": "China",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 32529,
+  "Value $": 23992
+ },
+ {
+  "Year": 2023,
+  "Month": "January",
+  "Country": "Kenya",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 1403907.5,
+  "Value $": 1182781.772
+ },
+ {
+  "Year": 2023,
+  "Month": "January",
+  "Country": "India",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 9500,
+  "Value $": 9975.575
+ },
+ {
+  "Year": 2023,
+  "Month": "January",
+  "Country": "Türkiye",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 1061,
+  "Value $": 8818
+ },
+ {
+  "Year": 2023,
+  "Month": "January",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 1045423,
+  "Value $": 260018.49
+ },
+ {
+  "Year": 2023,
+  "Month": "January",
+  "Country": "Türkiye",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 1061,
+  "Value $": 8818
+ },
+ {
+  "Year": 2023,
+  "Month": "January",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 1045423,
+  "Value $": 260018.49
+ },
+ {
+  "Year": 2023,
+  "Month": "January",
+  "Country": "Germany",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 2318.566
+ },
+ {
+  "Year": 2023,
+  "Month": "January",
+  "Country": "Germany",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 2318.566
+ },
+ {
+  "Year": 2023,
+  "Month": "January",
+  "Country": "USA",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 10,
+  "Value $": 6432
+ },
+ {
+  "Year": 2023,
+  "Month": "January",
+  "Country": "Türkiye",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 350000,
+  "Value $": 163928
+ },
+ {
+  "Year": 2023,
+  "Month": "January",
+  "Country": "Egypt",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 358593.141,
+  "Value $": 262500
+ },
+ {
+  "Year": 2023,
+  "Month": "January",
+  "Country": "Türkiye",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 350000,
+  "Value $": 163928
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "Kenya",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 20,
+  "Value $": 51.018
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "Türkiye",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 7,
+  "Value $": 57
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "Türkiye",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 7,
+  "Value $": 57
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "Türkiye",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 17,
+  "Value $": 159
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 467442,
+  "Value $": 4864.69
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "Türkiye",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 17,
+  "Value $": 159
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 467442,
+  "Value $": 4864.69
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 2609,
+  "cmdDesc": "Tin ores and concentrates",
+  "qty": 7200,
+  "Value $": 122684.48
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 2609,
+  "cmdDesc": "Tin ores and concentrates",
+  "qty": 7200,
+  "Value $": 122684.48
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "Belgium",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 1565.76,
+  "Value $": 7675.569
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "India",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 3240010,
+  "Value $": 1687269.111
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "Egypt",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 358324.765,
+  "Value $": 271635
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "Zambia",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 2430000,
+  "Value $": 1458730.82
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "Zambia",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 2430000,
+  "Value $": 1458730.82
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "Kenya",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 5738000,
+  "Value $": 503514.878
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 24584500,
+  "Value $": 2230062.74
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 24584500,
+  "Value $": 2230062.74
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "Kenya",
+  "cmdCode": 1515,
+  "cmdDesc": "Fixed vegetable or microbial fats and oils n.e.c. in chapter 15 (including jojoba oil) and their fractions, whether or not refined, but not chemically modified",
+  "qty": 9500,
+  "Value $": 15077.997
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "India",
+  "cmdCode": 1515,
+  "cmdDesc": "Fixed vegetable or microbial fats and oils n.e.c. in chapter 15 (including jojoba oil) and their fractions, whether or not refined, but not chemically modified",
+  "qty": 47500,
+  "Value $": 81448.139
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "China",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 683,
+  "Value $": 669
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "Kenya",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 977104.8,
+  "Value $": 870908.017
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "India",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 80,
+  "Value $": 2055.148
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "Slovakia",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 4,
+  "Value $": 49.289
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "Slovakia",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 4,
+  "Value $": 49.289
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "Türkiye",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 156,
+  "Value $": 3213
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 1693128,
+  "Value $": 1406730.57
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "Türkiye",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 156,
+  "Value $": 3213
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 1693128,
+  "Value $": 1406730.57
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "China",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 134
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "Poland",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 247
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "South Africa",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 1890.176
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "South Africa",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 1890.176
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "Kenya",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 3000,
+  "Value $": 2044.69
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "Türkiye",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 100000,
+  "Value $": 47600
+ },
+ {
+  "Year": 2023,
+  "Month": "February",
+  "Country": "Türkiye",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 100000,
+  "Value $": 47600
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "Kenya",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 1204,
+  "Value $": 2850.854
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "Belgium",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 18,
+  "Value $": 324.322
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 470000,
+  "Value $": 4870.52
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 470000,
+  "Value $": 4870.52
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "Belgium",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 653.6,
+  "Value $": 2621.782
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "Kenya",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 29385.2,
+  "Value $": 40990.26
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "India",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 810000,
+  "Value $": 440702.785
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "South Africa",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 93893.312,
+  "Value $": 56404.144
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "South Africa",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 93893.312,
+  "Value $": 56404.144
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "Egypt",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 1672786.339,
+  "Value $": 929637
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "Zambia",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 1071500,
+  "Value $": 636380.757
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "Zambia",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 1071500,
+  "Value $": 636380.757
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "Kenya",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 7282000,
+  "Value $": 628405.333
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 29637570,
+  "Value $": 2679166.67
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 29637570,
+  "Value $": 2679166.67
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "Kenya",
+  "cmdCode": 1515,
+  "cmdDesc": "Fixed vegetable or microbial fats and oils n.e.c. in chapter 15 (including jojoba oil) and their fractions, whether or not refined, but not chemically modified",
+  "qty": 100,
+  "Value $": 770.796
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "Türkiye",
+  "cmdCode": 1515,
+  "cmdDesc": "Fixed vegetable or microbial fats and oils n.e.c. in chapter 15 (including jojoba oil) and their fractions, whether or not refined, but not chemically modified",
+  "qty": 13,
+  "Value $": 115
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "Türkiye",
+  "cmdCode": 1515,
+  "cmdDesc": "Fixed vegetable or microbial fats and oils n.e.c. in chapter 15 (including jojoba oil) and their fractions, whether or not refined, but not chemically modified",
+  "qty": 13,
+  "Value $": 115
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "China",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 10071,
+  "Value $": 7388
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "Kenya",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 864389.5,
+  "Value $": 794602.224
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "Türkiye",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 16865,
+  "Value $": 29786
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 1652994,
+  "Value $": 1491948.19
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "Türkiye",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 16865,
+  "Value $": 29786
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 1652994,
+  "Value $": 1491948.19
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "Germany",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 648.773
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "Germany",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 648.773
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "Italy",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 2951.596
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "Türkiye",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 636
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "Türkiye",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 636
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "South Africa",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 229.757,
+  "Value $": 160.05
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "South Africa",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 229.757,
+  "Value $": 160.05
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "Türkiye",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 1018750,
+  "Value $": 472472
+ },
+ {
+  "Year": 2023,
+  "Month": "March",
+  "Country": "Türkiye",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 1018750,
+  "Value $": 472472
+ },
+ {
+  "Year": 2023,
+  "Month": "April",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 22,
+  "Value $": 1094
+ },
+ {
+  "Year": 2023,
+  "Month": "April",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 22,
+  "Value $": 1094
+ },
+ {
+  "Year": 2023,
+  "Month": "April",
+  "Country": "Belgium",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 1008,
+  "Value $": 4900.005
+ },
+ {
+  "Year": 2023,
+  "Month": "April",
+  "Country": "Egypt",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 98440.87,
+  "Value $": 74625
+ },
+ {
+  "Year": 2023,
+  "Month": "April",
+  "Country": "Zambia",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 56000,
+  "Value $": 39901.432
+ },
+ {
+  "Year": 2023,
+  "Month": "April",
+  "Country": "Zambia",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 56000,
+  "Value $": 39901.432
+ },
+ {
+  "Year": 2023,
+  "Month": "April",
+  "Country": "Kenya",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 6621175,
+  "Value $": 533831.644
+ },
+ {
+  "Year": 2023,
+  "Month": "April",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 720430,
+  "Value $": 1808744.56
+ },
+ {
+  "Year": 2023,
+  "Month": "April",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 720430,
+  "Value $": 1808744.56
+ },
+ {
+  "Year": 2023,
+  "Month": "April",
+  "Country": "USA",
+  "cmdCode": 1515,
+  "cmdDesc": "Fixed vegetable or microbial fats and oils n.e.c. in chapter 15 (including jojoba oil) and their fractions, whether or not refined, but not chemically modified",
+  "qty": 64520,
+  "Value $": 135738
+ },
+ {
+  "Year": 2023,
+  "Month": "April",
+  "Country": "China",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 48603,
+  "Value $": 43448
+ },
+ {
+  "Year": 2023,
+  "Month": "April",
+  "Country": "Kenya",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 575318.41,
+  "Value $": 551056.959
+ },
+ {
+  "Year": 2023,
+  "Month": "April",
+  "Country": "Portugal",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 490,
+  "Value $": 504.515
+ },
+ {
+  "Year": 2023,
+  "Month": "April",
+  "Country": "Portugal",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 490,
+  "Value $": 504.515
+ },
+ {
+  "Year": 2023,
+  "Month": "April",
+  "Country": "India",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 6853,
+  "Value $": 18163.308
+ },
+ {
+  "Year": 2023,
+  "Month": "April",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 868823,
+  "Value $": 987835.34
+ },
+ {
+  "Year": 2023,
+  "Month": "April",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 868823,
+  "Value $": 987835.34
+ },
+ {
+  "Year": 2023,
+  "Month": "April",
+  "Country": "India",
+  "cmdCode": 7102,
+  "cmdDesc": "Diamonds, whether or not worked, but not mounted or set",
+  "qty": 1749,
+  "Value $": 629859.936
+ },
+ {
+  "Year": 2023,
+  "Month": "April",
+  "Country": "China",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 14,
+  "Value $": 50
+ },
+ {
+  "Year": 2023,
+  "Month": "April",
+  "Country": "France",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 290.645
+ },
+ {
+  "Year": 2023,
+  "Month": "April",
+  "Country": "Slovenia",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 572.781
+ },
+ {
+  "Year": 2023,
+  "Month": "April",
+  "Country": "Slovenia",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 572.781
+ },
+ {
+  "Year": 2023,
+  "Month": "April",
+  "Country": "Kenya",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 3600,
+  "Value $": 2611.693
+ },
+ {
+  "Year": 2023,
+  "Month": "April",
+  "Country": "Türkiye",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 1642500,
+  "Value $": 712706
+ },
+ {
+  "Year": 2023,
+  "Month": "April",
+  "Country": "Türkiye",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 1642500,
+  "Value $": 712706
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "Belgium",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 2.4,
+  "Value $": 249.214
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "Belgium",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 12,
+  "Value $": 527.182
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "Burkina Faso",
+  "cmdCode": 7108,
+  "cmdDesc": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in powder form",
+  "qty": 6,
+  "Value $": 329764.263
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 2609,
+  "cmdDesc": "Tin ores and concentrates",
+  "qty": 7652.4,
+  "Value $": 138061.09
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 2609,
+  "cmdDesc": "Tin ores and concentrates",
+  "qty": 7652.4,
+  "Value $": 138061.09
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "Belgium",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 1128.96,
+  "Value $": 5438.227
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "Malawi",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 4000000,
+  "Value $": 2486070.4
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "Malawi",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 4000000,
+  "Value $": 2486070.4
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "South Africa",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 4018.313,
+  "Value $": 3086.334
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "South Africa",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 4018.313,
+  "Value $": 3086.334
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "Egypt",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 428161.389,
+  "Value $": 324576
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "Zambia",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 492000,
+  "Value $": 292022.928
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "Zambia",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 211000,
+  "Value $": 127112.56
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "Zambia",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 281000,
+  "Value $": 164910.368
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "Kenya",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 6421500,
+  "Value $": 511315.057
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 598782,
+  "Value $": 1195995.63
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 598782,
+  "Value $": 1195995.63
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "Kenya",
+  "cmdCode": 1515,
+  "cmdDesc": "Fixed vegetable or microbial fats and oils n.e.c. in chapter 15 (including jojoba oil) and their fractions, whether or not refined, but not chemically modified",
+  "qty": 3838.6,
+  "Value $": 11779.238
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "India",
+  "cmdCode": 1515,
+  "cmdDesc": "Fixed vegetable or microbial fats and oils n.e.c. in chapter 15 (including jojoba oil) and their fractions, whether or not refined, but not chemically modified",
+  "qty": 23750,
+  "Value $": 34777.077
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "Türkiye",
+  "cmdCode": 1515,
+  "cmdDesc": "Fixed vegetable or microbial fats and oils n.e.c. in chapter 15 (including jojoba oil) and their fractions, whether or not refined, but not chemically modified",
+  "qty": 100,
+  "Value $": 537
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "Türkiye",
+  "cmdCode": 1515,
+  "cmdDesc": "Fixed vegetable or microbial fats and oils n.e.c. in chapter 15 (including jojoba oil) and their fractions, whether or not refined, but not chemically modified",
+  "qty": 100,
+  "Value $": 537
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "China",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 146955,
+  "Value $": 284353
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "Kenya",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 1384100.8,
+  "Value $": 1286880.103
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "Türkiye",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 5527,
+  "Value $": 5874
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 468004,
+  "Value $": 352506.19
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "Türkiye",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 5527,
+  "Value $": 5874
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 468004,
+  "Value $": 352506.19
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "Belgium",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 35.863
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "China",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 6,
+  "Value $": 1693
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "Germany",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 10417.586
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "Germany",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 10417.586
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "India",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 4,
+  "Value $": 644.188
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 2,
+  "Value $": 9.96
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "USA",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 531,
+  "Value $": 10000
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 2,
+  "Value $": 9.96
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "Türkiye",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 500000,
+  "Value $": 213725
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "Egypt",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 81316.63,
+  "Value $": 59526
+ },
+ {
+  "Year": 2023,
+  "Month": "May",
+  "Country": "Türkiye",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 500000,
+  "Value $": 213725
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "France",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 119,
+  "Value $": 2842.212
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "Kenya",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 40,
+  "Value $": 91.608
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 24.66,
+  "Value $": 1320
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 24.66,
+  "Value $": 1320
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "Italy",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 1931,
+  "Value $": 23753.393
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 22050,
+  "Value $": 2605.57
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 22050,
+  "Value $": 2605.57
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "Burkina Faso",
+  "cmdCode": 7108,
+  "cmdDesc": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in powder form",
+  "qty": 1,
+  "Value $": 80981.71
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "Kenya",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 29082.25,
+  "Value $": 40195.306
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "Malawi",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 2819800,
+  "Value $": 1743284.62
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "Malawi",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 2819800,
+  "Value $": 1743284.62
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "Netherlands",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 45,
+  "Value $": 49.863
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "Saudi Arabia",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 189000,
+  "Value $": 119878.93
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "Egypt",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 203886.376,
+  "Value $": 154560
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "Zambia",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 1337000,
+  "Value $": 857270.253
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "Zambia",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 334000,
+  "Value $": 213221.596
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "Zambia",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 1003000,
+  "Value $": 644048.657
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "Kenya",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 2622000,
+  "Value $": 253224.283
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 633750,
+  "Value $": 1161771.8
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 633750,
+  "Value $": 1161771.8
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "South Africa",
+  "cmdCode": 1515,
+  "cmdDesc": "Fixed vegetable or microbial fats and oils n.e.c. in chapter 15 (including jojoba oil) and their fractions, whether or not refined, but not chemically modified",
+  "qty": 30.589,
+  "Value $": 185.22
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "South Africa",
+  "cmdCode": 1515,
+  "cmdDesc": "Fixed vegetable or microbial fats and oils n.e.c. in chapter 15 (including jojoba oil) and their fractions, whether or not refined, but not chemically modified",
+  "qty": 30.589,
+  "Value $": 185.22
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "China",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 31955,
+  "Value $": 22758
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "Kenya",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 323176.1,
+  "Value $": 299168.098
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "Portugal",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 989,
+  "Value $": 4223.211
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "Portugal",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 989,
+  "Value $": 4223.211
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "Türkiye",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 506,
+  "Value $": 3038
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 307534,
+  "Value $": 174948.55
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "Türkiye",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 506,
+  "Value $": 3038
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 307534,
+  "Value $": 174948.55
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "China",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0.393,
+  "Value $": 20
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "Lithuania",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 26961
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "Portugal",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 6826.946
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "Portugal",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 6826.946
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "USA",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 45,
+  "Value $": 5173
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "Türkiye",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 1475000,
+  "Value $": 510690
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "Egypt",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 163977.471,
+  "Value $": 120036
+ },
+ {
+  "Year": 2023,
+  "Month": "June",
+  "Country": "Türkiye",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 1475000,
+  "Value $": 510690
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "Netherlands",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 6691,
+  "Value $": 60145.239
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "South Africa",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 58.051,
+  "Value $": 632.421
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "South Africa",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 58.051,
+  "Value $": 632.421
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "Kenya",
+  "cmdCode": 2611,
+  "cmdDesc": "Tungsten ores and concentrates",
+  "qty": 2400,
+  "Value $": 6922.65
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "Belgium",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 168,
+  "Value $": 835.996
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "Kenya",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 540,
+  "Value $": 277.912
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "Malawi",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 1000000,
+  "Value $": 615411.3
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "Malawi",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 1000000,
+  "Value $": 615411.3
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "Egypt",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 991953.52,
+  "Value $": 751969.5
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "Zambia",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 1518000,
+  "Value $": 960410.131
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "Zambia",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 1518000,
+  "Value $": 960410.131
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "Kenya",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 1665500,
+  "Value $": 165666.605
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "Egypt",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 52520.314,
+  "Value $": 8759.52
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 18699750,
+  "Value $": 1735381.41
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 18699750,
+  "Value $": 1735381.41
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "China",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 28980,
+  "Value $": 28728
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "Kenya",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 1206860.9,
+  "Value $": 1062927.172
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "Türkiye",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 644,
+  "Value $": 2362
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 846517,
+  "Value $": 721609.53
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "Türkiye",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 644,
+  "Value $": 2362
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 846517,
+  "Value $": 721609.53
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "China",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 1,
+  "Value $": 3
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "Germany",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 496.511
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "Germany",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 496.511
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "Türkiye",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 4500
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "Türkiye",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 4500
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "Kenya",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 34430,
+  "Value $": 20291.453
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "Türkiye",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 1225000,
+  "Value $": 418770
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "Egypt",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 283145.144,
+  "Value $": 207270
+ },
+ {
+  "Year": 2023,
+  "Month": "July",
+  "Country": "Türkiye",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 1225000,
+  "Value $": 418770
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "India",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 0.852,
+  "Value $": 11.475
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "Kenya",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 33520.8,
+  "Value $": 45969.673
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "Malawi",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 5508800,
+  "Value $": 3610741.37
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "Malawi",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 5508800,
+  "Value $": 3610741.37
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "Saudi Arabia",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 460285,
+  "Value $": 328221.592
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "South Africa",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 54.984,
+  "Value $": 42.231
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "South Africa",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 54.984,
+  "Value $": 42.231
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "Egypt",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 681230.604,
+  "Value $": 516420
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "Zambia",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 1515000,
+  "Value $": 954794.294
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "Zambia",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 1515000,
+  "Value $": 954794.294
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "Kenya",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 1343500,
+  "Value $": 134710.105
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 30355310,
+  "Value $": 2776035.14
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 30355310,
+  "Value $": 2776035.14
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "Ghana",
+  "cmdCode": 1515,
+  "cmdDesc": "Fixed vegetable fats and oils (including jojoba oil) and their fractions, whether or not refined; but not chemically modified",
+  "qty": 8,
+  "Value $": 264.014
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "Ghana",
+  "cmdCode": 1515,
+  "cmdDesc": "Fixed vegetable fats and oils (including jojoba oil) and their fractions, whether or not refined; but not chemically modified",
+  "qty": 8,
+  "Value $": 264.014
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "Kenya",
+  "cmdCode": 1515,
+  "cmdDesc": "Fixed vegetable or microbial fats and oils n.e.c. in chapter 15 (including jojoba oil) and their fractions, whether or not refined, but not chemically modified",
+  "qty": 18,
+  "Value $": 181.337
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "Belgium",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 0.18,
+  "Value $": 1.091
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "China",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 250413,
+  "Value $": 262205
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "Kenya",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 1022410.2,
+  "Value $": 889426.876
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 1020279,
+  "Value $": 860436.29
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 1020279,
+  "Value $": 860436.29
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "Italy",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 5,
+  "Value $": 1279.61
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "Portugal",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 281.449
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "Portugal",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 281.449
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "India",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 205,
+  "Value $": 2616.366
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "Kenya",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 5000,
+  "Value $": 7648.72
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "Türkiye",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 2370000,
+  "Value $": 842955
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "Egypt",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 269662.042,
+  "Value $": 197400
+ },
+ {
+  "Year": 2023,
+  "Month": "August",
+  "Country": "Türkiye",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 2370000,
+  "Value $": 842955
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "Belgium",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 20,
+  "Value $": 158.975
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "Kenya",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 501,
+  "Value $": 8414.444
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "Belgium",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 30,
+  "Value $": 1361.032
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "Canada",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 2105,
+  "Value $": 12481.692
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 155139.248,
+  "Value $": 2691.68
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 155139.248,
+  "Value $": 2691.68
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "Belgium",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 8702.33,
+  "Value $": 30956.071
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "Kenya",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 29535.8,
+  "Value $": 42122.002
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "Malawi",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 2579000,
+  "Value $": 1789805.64
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "Malawi",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 2579000,
+  "Value $": 1789805.64
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "South Africa",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 222254.358,
+  "Value $": 170706.278
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "South Africa",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 222254.358,
+  "Value $": 170706.278
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "Egypt",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 3722148.104,
+  "Value $": 1968583.32
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "Zambia",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 249000,
+  "Value $": 156700.938
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "Zambia",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 249000,
+  "Value $": 156700.938
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "Kenya",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 1268000,
+  "Value $": 126082.519
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 23884250,
+  "Value $": 2184510.61
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 23884250,
+  "Value $": 2184510.61
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "Kenya",
+  "cmdCode": 1515,
+  "cmdDesc": "Fixed vegetable or microbial fats and oils n.e.c. in chapter 15 (including jojoba oil) and their fractions, whether or not refined, but not chemically modified",
+  "qty": 240,
+  "Value $": 283.405
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "China",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 33397,
+  "Value $": 20378
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "Kenya",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 1129626,
+  "Value $": 979898.31
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "India",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 17325,
+  "Value $": 26028.146
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "Türkiye",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 1088,
+  "Value $": 2578
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 1034628,
+  "Value $": 872669.58
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "Türkiye",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 1088,
+  "Value $": 2578
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 1034628,
+  "Value $": 872669.58
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "China",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 16,
+  "Value $": 1736
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "Denmark",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 349820.176
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "Kenya",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 3600,
+  "Value $": 2391.514
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "Türkiye",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 1495000,
+  "Value $": 552600
+ },
+ {
+  "Year": 2023,
+  "Month": "September",
+  "Country": "Türkiye",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 1495000,
+  "Value $": 552600
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "Belgium",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 0.56,
+  "Value $": 91.091
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "France",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 380,
+  "Value $": 1844.22
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "Kenya",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 14.28,
+  "Value $": 64.459
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 167,
+  "Value $": 1226.92
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 167,
+  "Value $": 1226.92
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "South Africa",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 96.42,
+  "Value $": 3020.269
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "South Africa",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 96.42,
+  "Value $": 3020.269
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 213012.91,
+  "Value $": 3934.55
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 213012.91,
+  "Value $": 3934.55
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "Belgium",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 1082.77,
+  "Value $": 5008.527
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "Malawi",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 3134000,
+  "Value $": 2280245.01
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "Malawi",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 3134000,
+  "Value $": 2280245.01
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "Morocco",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 450,
+  "Value $": 1406.031
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "Egypt",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 1710796.494,
+  "Value $": 1012548
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "Zambia",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 375000,
+  "Value $": 259513.001
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "Zambia",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 375000,
+  "Value $": 259513.001
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "Kenya",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 1744000,
+  "Value $": 173444.016
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 29633020,
+  "Value $": 2598400.37
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 29633020,
+  "Value $": 2598400.37
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "Indonesia",
+  "cmdCode": 1515,
+  "cmdDesc": "Fixed vegetable or microbial fats and oils n.e.c. in chapter 15 (including jojoba oil) and their fractions, whether or not refined, but not chemically modified",
+  "qty": 10,
+  "Value $": 492.38
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "Kenya",
+  "cmdCode": 1515,
+  "cmdDesc": "Fixed vegetable or microbial fats and oils n.e.c. in chapter 15 (including jojoba oil) and their fractions, whether or not refined, but not chemically modified",
+  "qty": 5414,
+  "Value $": 6605.926
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "China",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 127443,
+  "Value $": 102608
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "Czechia",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 1,
+  "Value $": 42
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "France",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 12,
+  "Value $": 126.751
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "Germany",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 167025,
+  "Value $": 482155.904
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "Germany",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 167025,
+  "Value $": 482155.904
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "Kenya",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 1465372,
+  "Value $": 1250200.565
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "Portugal",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 157,
+  "Value $": 1435.45
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "Portugal",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 157,
+  "Value $": 1435.45
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "India",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 451,
+  "Value $": 4369.266
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "Switzerland",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 71,
+  "Value $": 591.908
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "Switzerland",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 71,
+  "Value $": 591.908
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 913327,
+  "Value $": 774271.74
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 913327,
+  "Value $": 774271.74
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "Czechia",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 499
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "Germany",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 925.279
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "Germany",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 925.279
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "India",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 60,
+  "Value $": 10975.396
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "Türkiye",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 156
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "Türkiye",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 156
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "Türkiye",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 825000,
+  "Value $": 303352
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "Egypt",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 674155.105,
+  "Value $": 493500
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 60000,
+  "Value $": 27214.98
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "Türkiye",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 825000,
+  "Value $": 303352
+ },
+ {
+  "Year": 2023,
+  "Month": "October",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 60000,
+  "Value $": 27214.98
+ },
+ {
+  "Year": 2023,
+  "Month": "November",
+  "Country": "Belgium",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 1.12,
+  "Value $": 186.42
+ },
+ {
+  "Year": 2023,
+  "Month": "November",
+  "Country": "Belgium",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 30,
+  "Value $": 497.481
+ },
+ {
+  "Year": 2023,
+  "Month": "November",
+  "Country": "Kenya",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 350,
+  "Value $": 3587.411
+ },
+ {
+  "Year": 2023,
+  "Month": "November",
+  "Country": "Belgium",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 4474.32,
+  "Value $": 15438.483
+ },
+ {
+  "Year": 2023,
+  "Month": "November",
+  "Country": "France",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 72000,
+  "Value $": 47037
+ },
+ {
+  "Year": 2023,
+  "Month": "November",
+  "Country": "Kenya",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 84400.3,
+  "Value $": 80178.589
+ },
+ {
+  "Year": 2023,
+  "Month": "November",
+  "Country": "Malawi",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 168000,
+  "Value $": 96840.37
+ },
+ {
+  "Year": 2023,
+  "Month": "November",
+  "Country": "Malawi",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 168000,
+  "Value $": 96840.37
+ },
+ {
+  "Year": 2023,
+  "Month": "November",
+  "Country": "South Africa",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 520000,
+  "Value $": 381364.842
+ },
+ {
+  "Year": 2023,
+  "Month": "November",
+  "Country": "South Africa",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 520000,
+  "Value $": 381364.842
+ },
+ {
+  "Year": 2023,
+  "Month": "November",
+  "Country": "Kenya",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 830000,
+  "Value $": 82318.191
+ },
+ {
+  "Year": 2023,
+  "Month": "November",
+  "Country": "Portugal",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 386,
+  "Value $": 4664.831
+ },
+ {
+  "Year": 2023,
+  "Month": "November",
+  "Country": "Portugal",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 386,
+  "Value $": 4664.831
+ },
+ {
+  "Year": 2023,
+  "Month": "November",
+  "Country": "Kenya",
+  "cmdCode": 1515,
+  "cmdDesc": "Fixed vegetable or microbial fats and oils n.e.c. in chapter 15 (including jojoba oil) and their fractions, whether or not refined, but not chemically modified",
+  "qty": 3717.3,
+  "Value $": 7576.193
+ },
+ {
+  "Year": 2023,
+  "Month": "November",
+  "Country": "China",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 43702,
+  "Value $": 47448
+ },
+ {
+  "Year": 2023,
+  "Month": "November",
+  "Country": "Kenya",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 850503.8,
+  "Value $": 717802.385
+ },
+ {
+  "Year": 2023,
+  "Month": "November",
+  "Country": "Portugal",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 20847,
+  "Value $": 22736.187
+ },
+ {
+  "Year": 2023,
+  "Month": "November",
+  "Country": "Portugal",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 20847,
+  "Value $": 22736.187
+ },
+ {
+  "Year": 2023,
+  "Month": "November",
+  "Country": "India",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 850,
+  "Value $": 6334.628
+ },
+ {
+  "Year": 2023,
+  "Month": "November",
+  "Country": "Czechia",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 2265
+ },
+ {
+  "Year": 2023,
+  "Month": "November",
+  "Country": "Belgium",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 30,
+  "Value $": 24.643
+ }
+]

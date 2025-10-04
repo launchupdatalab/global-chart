@@ -1,0 +1,299 @@
+[
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "Kenya",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 3500,
+  "Value $": 2472.511
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "Türkiye",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 943500,
+  "Value $": 484673
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "Belgium",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 18,
+  "Value $": 256.45
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "Kenya",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 61.2,
+  "Value $": 321.241
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 159588.435,
+  "Value $": 237185.33
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 5000,
+  "Value $": 1612.62
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "Belgium",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 9555.01,
+  "Value $": 11394.167
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "China",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 140927,
+  "Value $": 281252
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "Germany",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 6,
+  "Value $": 2567.447
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "Kenya",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 708458.4,
+  "Value $": 597759.789
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "Portugal",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 118,
+  "Value $": 270.206
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "India",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 7849,
+  "Value $": 30158.577
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 972023,
+  "Value $": 858159.97
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 31714500,
+  "Value $": 2655305.23
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "Kenya",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 1712125,
+  "Value $": 134865.982
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "Belgium",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 1860.48,
+  "Value $": 10799.573
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "Kenya",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 594,
+  "Value $": 790.335
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "India",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 3240000,
+  "Value $": 1681144.86
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "South Africa",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 47328.166,
+  "Value $": 28431.255
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "Egypt",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 909624.502,
+  "Value $": 689558.4
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "Zambia",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 1472500,
+  "Value $": 888511.142
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "Malawi",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 1673000,
+  "Value $": 671579.655
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 7108,
+  "cmdDesc": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in powder form",
+  "qty": 0,
+  "Value $": 5255817.46
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "Burkina Faso",
+  "cmdCode": 7108,
+  "cmdDesc": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in powder form",
+  "qty": 6,
+  "Value $": 329764.263
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 2609,
+  "cmdDesc": "Tin ores and concentrates",
+  "qty": 7200,
+  "Value $": 122684.48
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "Kenya",
+  "cmdCode": 2611,
+  "cmdDesc": "Tungsten ores and concentrates",
+  "qty": 2400,
+  "Value $": 6922.65
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "India",
+  "cmdCode": 7102,
+  "cmdDesc": "Diamonds, whether or not worked, but not mounted or set",
+  "qty": 1749,
+  "Value $": 629859.936
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "China",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 33,
+  "Value $": 7551
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "Germany",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 2318.566
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "USA",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 10,
+  "Value $": 6432
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "Belgium",
+  "cmdCode": 1515,
+  "cmdDesc": "Fixed vegetable fats and oils (including jojoba oil) and their fractions, whether or not refined; but not chemically modified",
+  "qty": 331.2,
+  "Value $": 464.35
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "China",
+  "cmdCode": 1515,
+  "cmdDesc": "Fixed vegetable fats and oils (including jojoba oil) and their fractions, whether or not refined; but not chemically modified",
+  "qty": 274,
+  "Value $": 1272
+ },
+ {
+  "Year": 2022,
+  "Month": "January",
+  "Country": "Kenya",
+  "cmdCode": 1515,
+  "cmdDesc": "Fixed vegetable fats and oils (including jojoba oil) and their fractions, whether or not refined; but not chemically modified",
+  "qty": 190,
+  "Value $": 5700.497
+ }
+]

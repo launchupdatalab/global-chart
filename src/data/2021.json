@@ -1,0 +1,416 @@
+[
+ {
+  "Year": 2021,
+  "Month": "January",
+  "Country": "Belgium",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 24,
+  "Value $": 527.825
+ },
+ {
+  "Year": 2021,
+  "Month": "January",
+  "Country": "Italy",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 42,
+  "Value $": 1989.934
+ },
+ {
+  "Year": 2021,
+  "Month": "January",
+  "Country": "India",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 36,
+  "Value $": 236.816
+ },
+ {
+  "Year": 2021,
+  "Month": "January",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 0,
+  "Value $": 706.78
+ },
+ {
+  "Year": 2021,
+  "Month": "February",
+  "Country": "Belgium",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 11.04,
+  "Value $": 1396.436
+ },
+ {
+  "Year": 2021,
+  "Month": "February",
+  "Country": "Kenya",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 10,
+  "Value $": 1.185
+ },
+ {
+  "Year": 2021,
+  "Month": "February",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 0,
+  "Value $": 358.87
+ },
+ {
+  "Year": 2021,
+  "Month": "March",
+  "Country": "Belgium",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 10.14,
+  "Value $": 226.214
+ },
+ {
+  "Year": 2021,
+  "Month": "March",
+  "Country": "Belgium",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 71.94,
+  "Value $": 5176.747
+ },
+ {
+  "Year": 2021,
+  "Month": "March",
+  "Country": "Netherlands",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 1,
+  "Value $": 78.534
+ },
+ {
+  "Year": 2021,
+  "Month": "March",
+  "Country": "India",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 50,
+  "Value $": 554.45
+ },
+ {
+  "Year": 2021,
+  "Month": "March",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 83559.071,
+  "Value $": 31827.71
+ },
+ {
+  "Year": 2021,
+  "Month": "April",
+  "Country": "Belgium",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 24,
+  "Value $": 512.897
+ },
+ {
+  "Year": 2021,
+  "Month": "April",
+  "Country": "Belgium",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 8.23,
+  "Value $": 1096.004
+ },
+ {
+  "Year": 2021,
+  "Month": "April",
+  "Country": "Kenya",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 432.5,
+  "Value $": 8428.035
+ },
+ {
+  "Year": 2021,
+  "Month": "April",
+  "Country": "India",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 18,
+  "Value $": 122.233
+ },
+ {
+  "Year": 2021,
+  "Month": "April",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 0,
+  "Value $": 158.96
+ },
+ {
+  "Year": 2021,
+  "Month": "May",
+  "Country": "Belgium",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 10,
+  "Value $": 150.609
+ },
+ {
+  "Year": 2021,
+  "Month": "May",
+  "Country": "Kenya",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 471,
+  "Value $": 3221.749
+ },
+ {
+  "Year": 2021,
+  "Month": "May",
+  "Country": "Kenya",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 5,
+  "Value $": 10.537
+ },
+ {
+  "Year": 2021,
+  "Month": "June",
+  "Country": "Belgium",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 8.4,
+  "Value $": 206.005
+ },
+ {
+  "Year": 2021,
+  "Month": "June",
+  "Country": "Kenya",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 296,
+  "Value $": 4830.748
+ },
+ {
+  "Year": 2021,
+  "Month": "June",
+  "Country": "Kenya",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 3,
+  "Value $": 49.921
+ },
+ {
+  "Year": 2021,
+  "Month": "June",
+  "Country": "Netherlands",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 99,
+  "Value $": 1672.136
+ },
+ {
+  "Year": 2021,
+  "Month": "July",
+  "Country": "Belgium",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 10,
+  "Value $": 206.409
+ },
+ {
+  "Year": 2021,
+  "Month": "August",
+  "Country": "Belgium",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 36,
+  "Value $": 678.057
+ },
+ {
+  "Year": 2021,
+  "Month": "August",
+  "Country": "Belgium",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 0.28,
+  "Value $": 41.201
+ },
+ {
+  "Year": 2021,
+  "Month": "August",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 0,
+  "Value $": 3872.01
+ },
+ {
+  "Year": 2021,
+  "Month": "August",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 7500,
+  "Value $": 12397.82
+ },
+ {
+  "Year": 2021,
+  "Month": "September",
+  "Country": "Belgium",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 5.16,
+  "Value $": 105.933
+ },
+ {
+  "Year": 2021,
+  "Month": "September",
+  "Country": "Kenya",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 290,
+  "Value $": 1718.738
+ },
+ {
+  "Year": 2021,
+  "Month": "September",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 0,
+  "Value $": 7294.75
+ },
+ {
+  "Year": 2021,
+  "Month": "September",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 4951,
+  "Value $": 4806.6
+ },
+ {
+  "Year": 2021,
+  "Month": "October",
+  "Country": "Belgium",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 5.04,
+  "Value $": 44.086
+ },
+ {
+  "Year": 2021,
+  "Month": "October",
+  "Country": "Belgium",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 1.03,
+  "Value $": 20.883
+ },
+ {
+  "Year": 2021,
+  "Month": "October",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 0,
+  "Value $": 2467.08
+ },
+ {
+  "Year": 2021,
+  "Month": "October",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 5918,
+  "Value $": 5595.4
+ },
+ {
+  "Year": 2021,
+  "Month": "November",
+  "Country": "Belgium",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 25.2,
+  "Value $": 402.688
+ },
+ {
+  "Year": 2021,
+  "Month": "November",
+  "Country": "Belgium",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 6.92,
+  "Value $": 444.691
+ },
+ {
+  "Year": 2021,
+  "Month": "November",
+  "Country": "Kenya",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 5,
+  "Value $": 22.338
+ },
+ {
+  "Year": 2021,
+  "Month": "November",
+  "Country": "India",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 36,
+  "Value $": 247.976
+ },
+ {
+  "Year": 2021,
+  "Month": "November",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 6180,
+  "Value $": 99.61
+ },
+ {
+  "Year": 2021,
+  "Month": "November",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 7500,
+  "Value $": 5559.04
+ },
+ {
+  "Year": 2021,
+  "Month": "December",
+  "Country": "Belgium",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 55,
+  "Value $": 685.009
+ },
+ {
+  "Year": 2021,
+  "Month": "December",
+  "Country": "Kenya",
+  "cmdCode": 901,
+  "cmdDesc": "Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",
+  "qty": 20208,
+  "Value $": 52361.855
+ },
+ {
+  "Year": 2021,
+  "Month": "December",
+  "Country": "Kenya",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 460,
+  "Value $": 1239.653
+ }
+]

@@ -1,0 +1,254 @@
+[
+ {
+  "Year": 2020,
+  "Month": "January",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 902,
+  "cmdDesc": "Tea",
+  "qty": 15960,
+  "Value $": 37718
+ },
+ {
+  "Year": 2020,
+  "Month": "January",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 7108,
+  "cmdDesc": "Gold (including gold plated with platinum) unwrought or in semi-manufactured forms, or in powder form",
+  "qty": 0,
+  "Value $": 5255817.46
+ },
+ {
+  "Year": 2020,
+  "Month": "January",
+  "Country": "Malawi",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 1673000,
+  "Value $": 671579.655
+ },
+ {
+  "Year": 2020,
+  "Month": "January",
+  "Country": "India",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 3880120,
+  "Value $": 1258175.337
+ },
+ {
+  "Year": 2020,
+  "Month": "January",
+  "Country": "South Africa",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 265.93,
+  "Value $": 297.975
+ },
+ {
+  "Year": 2020,
+  "Month": "January",
+  "Country": "Egypt",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 366275.462,
+  "Value $": 160901
+ },
+ {
+  "Year": 2020,
+  "Month": "January",
+  "Country": "Zambia",
+  "cmdCode": 1701,
+  "cmdDesc": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "qty": 1241488.025,
+  "Value $": 608685.948
+ },
+ {
+  "Year": 2020,
+  "Month": "January",
+  "Country": "Kenya",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 1712125,
+  "Value $": 134865.982
+ },
+ {
+  "Year": 2020,
+  "Month": "January",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 2523,
+  "cmdDesc": "Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",
+  "qty": 31714500,
+  "Value $": 2655305.23
+ },
+ {
+  "Year": 2020,
+  "Month": "January",
+  "Country": "Belgium",
+  "cmdCode": 1515,
+  "cmdDesc": "Fixed vegetable fats and oils (including jojoba oil) and their fractions, whether or not refined; but not chemically modified",
+  "qty": 331.2,
+  "Value $": 464.35
+ },
+ {
+  "Year": 2020,
+  "Month": "January",
+  "Country": "China",
+  "cmdCode": 1515,
+  "cmdDesc": "Fixed vegetable fats and oils (including jojoba oil) and their fractions, whether or not refined; but not chemically modified",
+  "qty": 274,
+  "Value $": 1272
+ },
+ {
+  "Year": 2020,
+  "Month": "January",
+  "Country": "Kenya",
+  "cmdCode": 1515,
+  "cmdDesc": "Fixed vegetable fats and oils (including jojoba oil) and their fractions, whether or not refined; but not chemically modified",
+  "qty": 190,
+  "Value $": 5700.497
+ },
+ {
+  "Year": 2020,
+  "Month": "January",
+  "Country": "India",
+  "cmdCode": 1515,
+  "cmdDesc": "Fixed vegetable fats and oils (including jojoba oil) and their fractions, whether or not refined; but not chemically modified",
+  "qty": 1,
+  "Value $": 27.269
+ },
+ {
+  "Year": 2020,
+  "Month": "January",
+  "Country": "South Africa",
+  "cmdCode": 1515,
+  "cmdDesc": "Fixed vegetable fats and oils (including jojoba oil) and their fractions, whether or not refined; but not chemically modified",
+  "qty": 31.73,
+  "Value $": 229.212
+ },
+ {
+  "Year": 2020,
+  "Month": "January",
+  "Country": "China",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 13863,
+  "Value $": 94276
+ },
+ {
+  "Year": 2020,
+  "Month": "January",
+  "Country": "Kenya",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 460044,
+  "Value $": 350606.953
+ },
+ {
+  "Year": 2020,
+  "Month": "January",
+  "Country": "India",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 650,
+  "Value $": 2119.635
+ },
+ {
+  "Year": 2020,
+  "Month": "January",
+  "Country": "United Kingdom",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 620,
+  "Value $": 34598.166
+ },
+ {
+  "Year": 2020,
+  "Month": "January",
+  "Country": "United Rep. of Tanzania",
+  "cmdCode": 7306,
+  "cmdDesc": "Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",
+  "qty": 333112,
+  "Value $": 258317.42
+ },
+ {
+  "Year": 2020,
+  "Month": "January",
+  "Country": "China",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 33,
+  "Value $": 7551
+ },
+ {
+  "Year": 2020,
+  "Month": "January",
+  "Country": "Czechia",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 7,
+  "Value $": 10224
+ },
+ {
+  "Year": 2020,
+  "Month": "January",
+  "Country": "Israel",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 18.2,
+  "Value $": 6000
+ },
+ {
+  "Year": 2020,
+  "Month": "January",
+  "Country": "Türkiye",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 1359
+ },
+ {
+  "Year": 2020,
+  "Month": "January",
+  "Country": "USA",
+  "cmdCode": 8542,
+  "cmdDesc": "Electronic integrated circuits",
+  "qty": 0,
+  "Value $": 3300
+ },
+ {
+  "Year": 2020,
+  "Month": "January",
+  "Country": "Kenya",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 40,
+  "Value $": 27.915
+ },
+ {
+  "Year": 2020,
+  "Month": "January",
+  "Country": "India",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 4000,
+  "Value $": 2436.035
+ },
+ {
+  "Year": 2020,
+  "Month": "January",
+  "Country": "South Africa",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 36.3,
+  "Value $": 262.274
+ },
+ {
+  "Year": 2020,
+  "Month": "January",
+  "Country": "Türkiye",
+  "cmdCode": 1101,
+  "cmdDesc": "Wheat or meslin flour",
+  "qty": 1159,
+  "Value $": 342
+ }
+]
