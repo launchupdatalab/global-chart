@@ -13,6 +13,9 @@ import { CountryChart } from "./CountryChart";
 import { CommodityChart } from "./CommodityChart";
 import { MonthlyTrendChart } from "./MonthlyTrendChart";
 import { CmdCodeChart } from "./CmdCodeChart";
+import { OpportunitiesAnalysis } from "./OpportunitiesAnalysis";
+import { TrendForecast } from "./TrendForecast";
+import { StrategyInsights } from "./StrategyInsights";
 
 export const TradeDashboard = () => {
   const allData = useMemo(() => loadTradeData(), []);
@@ -52,9 +55,9 @@ export const TradeDashboard = () => {
     <div className="min-h-screen bg-background p-6">
       <div className="mx-auto max-w-[1600px] space-y-6">
         <div className="space-y-2">
-          <h1 className="text-4xl font-bold tracking-tight">Trade Analytics Dashboard</h1>
+          <h1 className="text-4xl font-bold tracking-tight">Rwanda Trade Analytics Dashboard</h1>
           <p className="text-muted-foreground">
-            Interactive trade data visualization and analysis (2020-2024)
+            AI-powered export opportunity identification and strategic trade insights (2020-2024)
           </p>
         </div>
 
@@ -71,6 +74,12 @@ export const TradeDashboard = () => {
           </div>
 
           <div className="space-y-6 lg:col-span-3">
+            <OpportunitiesAnalysis data={filteredData} />
+            
+            <TrendForecast data={filteredData} />
+
+            <StrategyInsights data={filteredData} />
+
             <SummaryCards data={filteredData} />
             
             <div className="grid gap-6 lg:grid-cols-2">
