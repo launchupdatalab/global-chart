@@ -16,6 +16,7 @@ import { CmdCodeChart } from "./CmdCodeChart";
 import { OpportunitiesAnalysis } from "./OpportunitiesAnalysis";
 import { TrendForecast } from "./TrendForecast";
 import { StrategyInsights } from "./StrategyInsights";
+import { AIInsightsPanel } from "./AIInsightsPanel";
 
 export const TradeDashboard = () => {
   const allData = useMemo(() => loadTradeData(), []);
@@ -74,6 +75,8 @@ export const TradeDashboard = () => {
           </div>
 
           <div className="space-y-6 lg:col-span-3">
+            <AIInsightsPanel data={filteredData} />
+            
             <OpportunitiesAnalysis data={filteredData} />
             
             <TrendForecast data={filteredData} />
